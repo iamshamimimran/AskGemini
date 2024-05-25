@@ -5,6 +5,7 @@ body {
   -webkit-font-smoothing: antialiased;
   --accent-color: #076EFF;
   color: #202124;
+  background: #000000cf;
 }
 
 main,
